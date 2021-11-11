@@ -26,6 +26,7 @@ namespace Properities
             employee.Ename = "Vijay";
 
             Console.WriteLine("{0} \t {1}", employee.Eno, employee.Ename);
+            Console.WriteLine("Apple");
         }
     }
 }
